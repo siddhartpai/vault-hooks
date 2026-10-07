@@ -7,7 +7,7 @@ Claude Code hooks that write into your Obsidian vault. Pure bash + jq.
 - `SessionStart`: Claude is briefed with today's daily note and open tasks.
 - `/vault-daily` skill: log a line, add a task, plan the day.
 
-**Full kit ($29, lifetime updates):** link added at launch
+**Full kit ($29, lifetime updates):** https://siddhart24.gumroad.com/l/obsidian-vault-hooks-claude-code
 - `Stop`: one note per Claude session, every reply appended, frontmatter for Bases.
 - `PreCompact`: decision sentences extracted before context compaction into `Claude/Decisions.md`.
 - `SessionEnd`: Claude Code's memory files mirrored into `Claude Memory/`.
