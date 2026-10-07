@@ -1,0 +1,1 @@
+{"session_id":"abcdef1234567890","transcript_path":"__TMP__/transcript.jsonl","cwd":"/Users/me/code/myproj","hook_event_name":"PostToolUse","tool_name":"Bash","tool_input":{"command":"ls","file_path":"/x"},"tool_use_id":"toolu_2"}

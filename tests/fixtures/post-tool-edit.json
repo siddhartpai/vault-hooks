@@ -1,0 +1,1 @@
+{"session_id":"abcdef1234567890","transcript_path":"__TMP__/transcript.jsonl","cwd":"/Users/me/code/myproj","hook_event_name":"PostToolUse","tool_name":"Edit","tool_input":{"file_path":"/Users/me/code/myproj/src/app.ts","old_string":"a","new_string":"b"},"tool_response":{"ok":true},"tool_use_id":"toolu_1"}
